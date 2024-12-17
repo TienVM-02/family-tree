@@ -15,6 +15,7 @@ bun dev
 ```
 
 ## The rule to create branch
+```bash
 - Config any thing
     --> Branch name: config/anyThing
     Ex: config/mongodb
@@ -24,7 +25,7 @@ bun dev
 - Fix any bug:
     --> Branch name: bug/featureName
     Ex: bug/login-logout
-
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
